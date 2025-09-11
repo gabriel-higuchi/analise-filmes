@@ -1,5 +1,3 @@
-Para criar um arquivo README completo e útil para o seu projeto, aqui está um modelo que explica como instalar, executar e entender as análises que você realizou.
-
 Análise Exploratória de Filmes do IMDb
 1. Descrição do Projeto
 Este projeto consiste em uma Análise Exploratória de Dados (EDA) de um conjunto de dados de filmes do IMDb. O objetivo principal é investigar a relação entre o sucesso financeiro e o sucesso de crítica, além de analisar o impacto de diretores e atores e construir um modelo preditivo para a nota do IMDb.
